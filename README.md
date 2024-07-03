@@ -1,4 +1,4 @@
-### Hi there, I'm [Sarthak]! 👋
+### Hi there, I'm Sarthak! 👋
 
 I'm a passionate software engineer with a focus on building scalable web applications and exploring the realms of machine learning and deep learning. Here's a glimpse of my interests and expertise:
 
