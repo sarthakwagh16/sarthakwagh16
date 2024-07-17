@@ -1,6 +1,9 @@
 ### Hi there, I'm Sarthak! 👋
 
 I'm a passionate software engineer with a focus on building scalable web applications and a strong desire to explore new technologies, dedicated to career growth through skill enhancement. Here's a glimpse of my interests and expertise:
+<p align="center" style="width:90%" > 
+ <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakwagh16&show_icons=true&theme=synthwave" alt="sarthakwagh16" />
+</p>
 
 - 🔭 I’m currently working on developing web applications using ReactJs, NodeJs and REST APIS.
 - 🌱 I’m constantly learning and exploring new technologies and frameworks.
