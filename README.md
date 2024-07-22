@@ -36,11 +36,6 @@ I'm a passionate software engineer with a focus on building scalable web applica
 
 
 
-
-### Languages and Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakwagh16&layout=compact)
-
 ### Let's Connect
 
 Connect with me and let's discuss tech, collaborate on projects, or just have a chat!
