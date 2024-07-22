@@ -1,4 +1,4 @@
-### Hi there, I'm Sarthak! 👋
+<h1  align="center">Hi there 👋 I'm <span style="font-size:60px; color:rgb(234, 83, 83);"> Sarthak Wagh </span> </h1>
 
 <p align="center" style="width:90%" > 
  <img style="width:70%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakwagh16&show_icons=true&theme=synthwave" alt="sarthakwagh16" />
