@@ -179,17 +179,7 @@ K. K. Wagh Institute of Engineering Education & Research, Nashik
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthakwagh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakwagh&layout=compact&theme=github_dark&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sarthakwagh&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -202,7 +192,6 @@ K. K. Wagh Institute of Engineering Education & Research, Nashik
 | 💼 LinkedIn | [linkedin.com/in/sarthakwagh](https://linkedin.com/in/sarthakwagh) |
 | 📧 Email | sarthakwagh1602@gmail.com |
 | 🌐 Portfolio | *Coming Soon* |
-| 📄 Resume | *Available on request* |
 
 ---
 
